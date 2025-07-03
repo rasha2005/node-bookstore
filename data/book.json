@@ -1,0 +1,34 @@
+[
+  {
+    "id": "8b5f9559-f4fc-45ef-856e-25eb6d8b848d",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "Programming",
+    "publishedYear": 2008,
+    "userId": "6f28ae1a-97d8-472d-aac3-7159f5a72ed7"
+  },
+  {
+    "id": "d22c17f7-4987-4396-b2fe-f308d55b080d",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "Self-help",
+    "publishedYear": 2018,
+    "userId": "6f28ae1a-97d8-472d-aac3-7159f5a72ed7"
+  },
+  {
+    "id": "1d639028-d12b-4f88-be09-e20fd21f30e3",
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "publishedYear": 1949,
+    "userId": "6f28ae1a-97d8-472d-aac3-7159f5a72ed7"
+  },
+  {
+    "id": "44026e84-8c5d-40aa-afdb-c7e613abd937",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "Programming",
+    "publishedYear": 2008,
+    "userId": "6f28ae1a-97d8-472d-aac3-7159f5a72ed7"
+  }
+]
